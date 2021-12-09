@@ -1,27 +1,16 @@
-# Processing Task 1 - Calling Functions
+# Processing Task 2 - Using Variables
 
 ## Learning Objectives
 In this task, you will learn about:
-1. Calling Processing functions
-2. Draw order
-3. Coordinate Systems
-4. Colours
+Using Processing variables like `width` and `height` to make a drawing that is dynamic to changes in size
 
 
 ## Step 1 - Lesson
-Acquire the learning objectives by reviewing [this page](https://happycoding.io/tutorials/processing/calling-functions)
+Acquire the learning objectives by reviewing [this page](https://happycoding.io/tutorials/processing/using-variables)
 
 ## Step 2 - Task
-Demonstrate your learning objectives by creating a simple drawing using processing.  Your drawing should have:
-* background colour
-* use at least 3 different shapes (i.e rect, ellipse, lines, polygons)
-* a foreground and background
+Consider your drawing from the previous lesson.  Modify it use the `width` and `height` variables so that it works with any sized window (scales proportionally with changes in width and height)
 
-### Some examples
-* Draw a flower or a garden
-* Draw a rainbow
-* Draw a dog or cat
-* Draw a house
 
 ## Submission
 1. Commit and push your code to this repository
